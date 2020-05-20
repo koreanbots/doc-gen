@@ -1,0 +1,20 @@
+{
+  "name": "doc-gen",
+  "version": "1.0.0",
+  "description": "DOCS SHOULD BE GEN",
+  "main": "index.js",
+  "scripts": {
+    "start": "git clone https://github.com/koreanbots/api-docs docs && node .",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koreanbots/doc-gen.git"
+  },
+  "author": "wonderlandpark",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/koreanbots/doc-gen/issues"
+  },
+  "homepage": "https://github.com/koreanbots/doc-gen#readme"
+}
